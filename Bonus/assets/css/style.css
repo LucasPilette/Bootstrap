@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#burger{
+    height: 2em;
+    width: auto;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(36deg) brightness(102%) contrast(105%);
+}
+#book{
+    height: 1.5em;
+    width: auto;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(36deg) brightness(102%) contrast(105%);
+}
+li{
+    margin: 0 1em;
+}
+#portrait{
+    width: 100%;
+    height: auto;
+}
+
+#paysage{
+    width: 100%;
+    height: auto;
+}
+#nav{
+    margin-left: 17vw;
+}
+#list{
+    list-style-type: none;
+}
